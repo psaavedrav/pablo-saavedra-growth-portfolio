@@ -1,0 +1,24 @@
+pablo-saavedra-growth-portfolio/
+│
+├── README.md                  ← tu presentación principal (como landing)
+│
+├── 📊 paid-media-cases/
+│   ├── comunidadfeliz-googleads.md
+│   ├── southernlights-bess-campaign.md
+│   └── hipotecaria-evoluciona-search.md
+│
+├── 📈 dashboards/
+│   ├── looker-studio-examples.md
+│   └── tracking-integration-architecture.png
+│
+├── ⚙️ automation-tracking/
+│   ├── gtm-ga4-events-setup.md
+│   ├── hubspot-integration-workflow.md
+│   └── utm-dynamic-builder.xlsx
+│
+├── 🧪 growth-experiments/
+│   ├── ab-test-structure.md
+│   └── funnel-optimization-report.pdf
+│
+└── 📚 about/
+    └── resume-pablo-saavedra.pdf
